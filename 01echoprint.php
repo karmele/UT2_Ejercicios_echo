@@ -33,6 +33,7 @@
             echo "<p>Si utilizo \\n puedo insertar \n saltos de línea en el código fuente\n del navegador</p>";
             echo '<p>pero solo funciona con las comillas dobles\n, no con las simples </p>';
             echo "<hr />";
+            echo "estoy en sumar y soy dweskarmele2";
             ?>
             <h3>Ahora practicaremos con print</h3>
             <?php
