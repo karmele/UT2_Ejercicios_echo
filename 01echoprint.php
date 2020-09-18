@@ -14,7 +14,7 @@
     <header>
         <img src='img\logo.png' width="85" height="70" alt="El logo de Mª Ana Sanz" />
         <h1>Ejercicios de la UT2</h1>
-        
+
     </header>
 
     <nav>
@@ -28,23 +28,20 @@
             <hr />
             <p>PHP es un lenguaje de script de servidor</p>
             <p> También se pueden escribir con echo, en PHP, las <p> de la siguiente manera: </p>
-            <?php
-            echo "<p>Con la sentencia <span class='comen'>echo</span> mostramos información en el navegador</p>";
-            echo "<p>Si utilizo \\n puedo insertar \n saltos de línea en el código fuente\n del navegador</p>";
-            echo '<p>pero solo funciona con las comillas dobles\n, no con las simples </p>';
-            echo "<hr />";
-<<<<<<< HEAD
-            echo "estoy en restar y soy karmeledai2";
-=======
-            echo "estoy en sumar y soy dweskarmele2";
->>>>>>> 1f572143ff2ab70ee0256f09014742a16a3a1d00
-            ?>
-            <h3>Ahora practicaremos con print</h3>
+                <?php
+                echo "<p>Con la sentencia <span class='comen'>echo</span> mostramos información en el navegador</p>";
+                echo "<p>Si utilizo \\n puedo insertar \n saltos de línea en el código fuente\n del navegador</p>";
+                echo '<p>pero solo funciona con las comillas dobles\n, no con las simples </p>';
+                echo "<hr />";
+                echo "estoy en restar y soy karmeledai2";
+                echo "estoy en sumar y soy dweskarmele2";
+                ?>
+                <h3>Ahora practicaremos con print</h3>
 
-            <?php
-            print "Hola este es mi primer ejemplo con <span class='comen'>print</span> <br />";
-            print 'Las comillas simples también funcionan con <span class="comen">print</span>'
-            ?>
+                <?php
+                print "Hola este es mi primer ejemplo con <span class='comen'>print</span> <br />";
+                print 'Las comillas simples también funcionan con <span class="comen">print</span>'
+                ?>
         </section>
     </main>
     <footer>
