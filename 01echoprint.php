@@ -33,8 +33,10 @@
             echo "<p>Si utilizo \\n puedo insertar \n saltos de línea en el código fuente\n del navegador</p>";
             echo '<p>pero solo funciona con las comillas dobles\n, no con las simples </p>';
             echo "<hr />";
+            echo "estoy en restar y soy karmeledai2";
             ?>
             <h3>Ahora practicaremos con print</h3>
+
             <?php
             print "Hola este es mi primer ejemplo con <span class='comen'>print</span> <br />";
             print 'Las comillas simples también funcionan con <span class="comen">print</span>'
